@@ -3,19 +3,14 @@
 
 Today is Monday, but Monday no blue
 
-CMD use for changes making:
+##CMD use for changes making:
 - git status
-
--git add
-
--git commit -m ""
-
-git push
+- git add
+- git commit -m ""
+- git push
 
 
-References: 
-CLI Cheat Sheet
-
-Markdown Cheat Sheet
-
-Git Cheat Sheet
+##References: 
+- CLI Cheat Sheet
+- Markdown Cheat Sheet
+- Git Cheat Sheet
